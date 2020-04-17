@@ -1,0 +1,1 @@
+cmd_/usr/src/dahdi-linux-oak-2.11.1/drivers/dahdi/../staging/echo/echo.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /usr/src/dahdi-linux-oak-2.11.1/drivers/dahdi/../staging/echo/echo.ko /usr/src/dahdi-linux-oak-2.11.1/drivers/dahdi/../staging/echo/echo.o /usr/src/dahdi-linux-oak-2.11.1/drivers/dahdi/../staging/echo/echo.mod.o ;  true
